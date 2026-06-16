@@ -15,15 +15,15 @@ An interactive educational mobile application for children aged 3–8 years buil
 
 ### Home Screen
 
-![Home Screen](screenshots/home.jpeg)
+![Home Screen](Screenshots/Home.jpeg)
 
 ### Camera Activity
 
-![Camera Activity](screenshots/camera.jpeg)
+![Camera Activity](Screenshots/camera.jpeg)
 
 ### Reward Screen
 
-![Reward Screen](screenshots/reward.jpeg)
+![Reward Screen](Screenshots/reward.jpeg)
 
 ## Tech Stack
 
